@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447514580514",
+    "project_id": "mobile070-b9f12",
+    "storage_bucket": "mobile070-b9f12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447514580514:android:0ba93ca0e2d35f36e15c7b",
+        "android_client_info": {
+          "package_name": "com.sajjad070.autopilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447514580514-tlruoqfbtf4hscdml59gq4ntbv8tn8op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIMPAXmpt-jUo9dixrrZidxnMzBj9sXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447514580514-tlruoqfbtf4hscdml59gq4ntbv8tn8op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
